@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.guangbolin.lottery_picker",
+      "sha256_cert_fingerprints": [
+        "0A:E9:20:4B:0C:EE:79:43:99:37:98:76:B3:4B:3A:4B:7F:D6:AA:0D:EE:CD:77:75:2E:D1:AA:E7:D7:CD:26:A1"
+      ]
+    }
+  }
+]
